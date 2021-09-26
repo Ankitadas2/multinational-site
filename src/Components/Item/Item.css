@@ -1,0 +1,11 @@
+.items-container{
+    border:2px solid gray;
+    padding-left: 10px;
+    margin-top: 25px;
+    background-color: rgb(221, 147, 147);
+    padding-bottom: 50px;
+    box-shadow: 0 1rem 2rem 1rem rgb(199, 183, 183);
+}
+.text-design{
+    color:rgb(161, 67, 67);
+}

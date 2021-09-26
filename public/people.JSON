@@ -1,0 +1,111 @@
+[
+    {
+      "key":90999568,
+      "name": "Google",
+      "inventor": "Larry page",
+      "Headquater": " USA",
+      "salary": 40000,
+      "inventYear": 1998,
+      "img": "https://img.etimg.com/thumb/msid-85788850,width-1200,height-900/news/india/google-removes-95680-content-pieces-in-july-in-india-compliance-report.jpg"
+    },
+    {
+      "key":90989569,
+      "name": "Microsoft",
+      "inventor": "Bill gates",
+      "Headquater": " USA",
+      "salary": 35000,
+      "inventYear": 1975,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlK2pQE_8AsNVU08riyrYUICc-_9XG-rGXHg&usqp=CAU"
+    },
+    {
+      "key":9099789,
+      "name": "Facebook",
+      "inventor": "Mark Zuckerberg",
+      "Headquater": " USA",
+      "salary": 32000,
+      "inventYear": 2004,
+      "img": "https://www.gannett-cdn.com/presto/2020/01/09/USAT/27b08b9e-7b05-4d9b-967b-5daf8def834c-be841482-31d2-495d-b5de-1b038aad3ff4_thumbnail.png?width=1280&height=720&fit=crop&format=pjpg&auto=webp"
+    },
+    {
+      "key":90956568,
+      "name": "Apple",
+      "inventor": "Steve Jobs",
+      "Headquater": "USA",
+      "salary": 45000,
+      "inventYear": 1976,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTL7Zp8tI4sQYNJnfGg5vC7rv7MRehGcu_rA&usqp=CAU"
+    },
+    {
+      "key":90993338,
+      "name": "Cognizant",
+      "inventor": "Mahadeve",
+      "Headquater": "USA",
+      "salary": 36000,
+      "inventYear": 1994,
+      "img": "https://image.shutterstock.com/image-photo/mississauga-ontario-canada-october-5-260nw-1528074539.jpg"
+    },
+    {
+      "key":90123568,
+      "name": "Tata",
+      "inventor": "Jamshedji Tata",
+      "Headquater": "Mumbai",
+      "salary": 28000,
+      "inventYear": 1868,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP94pJB6vNZ83QvWyEMDgyPcj6NtfbVpivBw&usqp=CAU"
+    },
+    {
+      "key":90199568,
+      "name": "Amazon",
+      "inventor": "Jeff Bezos",
+      "Headquater": "USA",
+      "salary": 38000,
+      "inventYear": 1994,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9yAYfQyAwMVV6Wi_oyxYys4B5xBmEQyXrDQ&usqp=CAU"
+    },
+    {
+      "key":9099590,
+      "name": "Wipro",
+      "inventor": "Premji",
+      "Headquater": "India",
+      "salary": 4000,
+      "inventYear": 1945,
+      "img": "https://www.realtynmore.com/wp-content/uploads/2018/11/Overview-2x.jpg"
+    },
+    {
+      "key":91299568,
+      "name": "Infosys",
+      "inventor": "Narayana",
+      "Headquater": "India",
+      "salary": 4700,
+      "inventYear": 1981,
+      "img": "https://m.rediff.com/money/2007/aug/08sld1.jpg"
+    },
+    {
+      "key":87999568,
+      "name": "IBM",
+      "inventor": "Charles",
+      "Headquater": "NewYork",
+      "salary": 40000,
+      "inventYear": 1911,
+      "img": "https://techcrunch.com/wp-content/uploads/2020/05/GettyImages-1205397116.jpg?w=730&crop=1"
+    },
+    {
+      "key":97899568,
+      "name": "Siemens",
+      "inventor": "Werner",
+      "Headquater": "Germany",
+      "salary": 4500,
+      "inventYear": 1847,
+      "img": "https://images.livemint.com/img/2019/05/19/600x338/Siemens--621x414_1558282262215.JPG"
+    },
+   
+    {
+      "key":45099568,
+      "name": "Intel",
+      "inventor": "Gordon",
+      "Headquater": "US",
+      "salary": 40000,
+      "inventYear": 1968,
+      "img": "https://image.shutterstock.com/image-photo/intel-logo-near-worldwide-corporation-260nw-1339990802.jpg"
+    }
+  ]

@@ -1,0 +1,17 @@
+.header{
+    background-color:rgb(245, 205, 131);
+    color:rgb(207, 81, 35);
+    text-align: center;
+    margin-left: 30px;
+    margin-right: 30px;
+    padding-bottom: 20px;
+    padding-top: 8px;
+    
+}
+.top-text{
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    color: rgb(6, 122, 117);
+    font-size: 40px;
+}
