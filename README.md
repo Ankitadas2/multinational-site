@@ -1,11 +1,12 @@
 <!-- Heading -->
-# heading 
+# Site Information 
 
 **Here create** **Multinational-Company-site**
  <!--Website name  -->
- **Top-tech-Groups**
+ # Top-tech-Groups
  <!-- Netlify live link -->
-[live link](https://objective-lamport-d84c13.netlify.app/ "netlify")
+ # Please click this below link for visit the website
+[live link](https://objective-lamport-d84c13.netlify.app/)
  <!-- Benfits of this website -->
  * This website give you information of tech companies
  * This companies are multinational comapny
