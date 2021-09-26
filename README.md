@@ -1,3 +1,19 @@
+<!-- Heading -->
+# heading 
+
+**Here create** **Multinational-Company-site**
+ <!--Website name  -->
+ **Top-tech-Groups**
+ <!-- Netlify live link -->
+[live link](https://objective-lamport-d84c13.netlify.app/ "netlify")
+ <!-- Benfits of this website -->
+ * This website give you information of tech companies
+ * This companies are multinational comapny
+ * Companies details which you will know to visit this website
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

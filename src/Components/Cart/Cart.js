@@ -5,18 +5,21 @@ import './Cart.css'
 
 const Cart = (props) => {
     const {name,img,salary,inventor,Headquater,inventYear}=props.cart;
+    // Using fontAwesomeicon:
     const icon=<FontAwesomeIcon icon={faUserCheck} />
     return (
         <div className="cart-container" >
             <div className="cart-img">
                 <img src={img} alt="" />
             </div>
+            {/* All cart details in dynamically */}
             <div className="cart-details">
                 <h2>Name:{name}</h2>
                 <h3>Inventor:{inventor}</h3>
                 <h3>Invent Year:{inventYear}</h3>
                 <h3>Headequater:{Headquater}</h3>
                 <h3>Company Income:<small>$</small>{salary}</h3>
+                {/* Here give one button */}
                 <button className="btn-change" onClick={()=>props.selectCart(props.cart)}>{icon}   Select</button>
             </div>
         </div>
